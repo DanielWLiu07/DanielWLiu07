@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8BHi%2C+I'm+Daniel+W+Liu!;%F0%9F%91%8B%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Daniel+W+Liu%EF%BC%81;%F0%9F%91%8BBonjour%2C+je+suis+Daniel+W+Liu+!;%F0%9F%91%8BHola%2C+soy+Daniel+W+Liu!;%F0%9F%91%8BCiao%2C+sono+Daniel+W+Liu!;%F0%9F%91%8B%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BBW%E3%83%BB%E3%83%AA%E3%82%A6%E3%81%A7%E3%81%99%EF%BC%81;%F0%9F%91%8B%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+Daniel+W+Liu%EC%9E%85%EB%8B%88%EB%8B%A4!;%F0%9F%91%8BHallo%2C+ich+bin+Daniel+W+Liu!" alt="Typing SVG" /></a>
 
-<h3 align="center">A passionate Game Dev developer & Computer Vision Engineer from Canada</h3>
+<h3 align="center">A passionate Game developer & Computer Vision Engineer from Canada</h3>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 I'm a first-year Computer Science and Finance double major at the **University of Waterloo** with a deep interest in both **AI/computer vision** and **game development**. I enjoy building immersive, accessible experiences in **Unity**, and I'm especially passionate about applying tech to meaningful real-world problems.  
