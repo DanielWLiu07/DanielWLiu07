@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=000000&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%8BHi%2C+I'm+Daniel+W+Liu!;%F0%9F%91%8B%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Daniel+W+Liu%EF%BC%81;%F0%9F%91%8BBonjour%2C+je+suis+Daniel+W+Liu+!;%F0%9F%91%8BHola%2C+soy+Daniel+W+Liu!;%F0%9F%91%8BCiao%2C+sono+Daniel+W+Liu!;%F0%9F%91%8B%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BBW%E3%83%BB%E3%83%AA%E3%82%A6%E3%81%A7%E3%81%99%EF%BC%81;%F0%9F%91%8B%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+Daniel+W+Liu%EC%9E%85%EB%8B%88%EB%8B%A4!;%F0%9F%91%8BHallo%2C+ich+bin+Daniel+W+Liu!" alt="Typing SVG" /></a>
 
-<!--
-**DanielWLiu07/DanielWLiu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Game Dev developer & Computer Vision Engineer from Canada</h3>
 
-Here are some ideas to get you started:
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+I'm a first-year Computer Science and Finance double major at the **University of Waterloo** with a deep interest in both **AI/computer vision** and **game development**. I enjoy building immersive, accessible experiences in **Unity**, and I'm especially passionate about applying tech to meaningful real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've worked on projects that combine **body tracking**, **object detection**, and **mixed reality**, including developing research tools to improve movement therapy to support rehabilitation through games.
+
+Outside of coding, you'll find me **rock climbing**, leading teams, or tinkering with new AI tools. I'm always excited to learn, collaborate, and create something that matters.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/danielliu2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielliu2007" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
