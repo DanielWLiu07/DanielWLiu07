@@ -14,8 +14,10 @@ Outside of coding, you'll find me **rock climbing**, leading teams, or tinkering
 
 # 📊 GitHub Stats:
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=DanielWLiu07&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=DanielWLiu07&theme=transparent&hide_border=false" height="160"/>
+  
 </div>
 
 ## 🌐 Socials:
