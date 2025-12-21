@@ -5,14 +5,14 @@
   
 <h3 align="center">A passionate Game Developer & Computer Vision Engineer from Canada</h3>
 
-# About me
+# About Me
 I'm a first-year Computer Science and Finance double major at the University of Waterloo with a strong interest in building beautiful and reliable user-focused software systems. I enjoy working across the stack, from backend logic and data flows to interactive, intuitive interfaces.
 
 I’ve worked on projects that span full-stack development, real-time systems, and applied machine learning, including tools designed to support healthcare and education through practical, scalable technology.
 
 Outside of coding, you’ll find me rock climbing, leading teams, or experimenting with new tech in fields ranging from game development to 3D modeling. I’m always excited to learn, collaborate, and build software that matters.
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 | Category | Technologies |
 |--------|-------------|
@@ -30,7 +30,7 @@ Outside of coding, you’ll find me rock climbing, leading teams, or experimenti
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=DanielWLiu07&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
@@ -38,7 +38,7 @@ Outside of coding, you’ll find me rock climbing, leading teams, or experimenti
   
 </div>
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielliuyess) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielliu2007) 
 
 ---
