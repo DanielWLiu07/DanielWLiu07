@@ -1,6 +1,6 @@
 <h1 align="center"> 
 
-<img src="https://raw.githubusercontent.com/DanielWLiu07/DanielWLiu07/main/github_banner.png" alt="My GitHub Image" width="100%"/>
+<img src="https://raw.githubusercontent.com/DanielWLiu07/DanielWLiu07/main/Github_banner.png" alt="My GitHub Image" width="100%"/>
 
 <h3 align="center">
 A creative full-stack and ML software engineer building beautiful applications from Canada 🇨🇦  </br> Visit my Portfolio: <a href="https://danielwliu.com">danielwliu.com</a>
