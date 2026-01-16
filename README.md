@@ -2,16 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/DanielWLiu07/DanielWLiu07/main/github_banner.png" alt="My GitHub Image" width="100%"/>
 
-  
-<h3 align="center"> A creative full-stack and ML software engineer building beautiful applications from Canada 🇨🇦</h3>
 <h3 align="center">
-  <a href="https://danielwliu.com">Visit my portfolio</a>
+A creative full-stack and ML software engineer building beautiful applications from Canada 🇨🇦  </br> Visit my Portfolio: <a href="https://danielwliu.com">danielwliu.com</a>
+
 </h3>
 
 # About Me
-I'm a first-year Computer Science and Finance double major at the University of Waterloo with a strong interest in building beautiful and reliable user-focused software systems. I enjoy working across the stack, from backend logic and data flows to interactive, intuitive interfaces.
-
-I’ve worked on projects that span full-stack development, real-time systems, and applied machine learning, including tools designed to support healthcare and education through practical, scalable technology.
+I'm a first-year Computer Science and Finance double major at the University of Waterloo with a strong interest in building beautiful and reliable user-focused software systems. I enjoy working on projects that span full-stack development, real-time systems, and applied machine learning, including tools designed to support healthcare and education through practical, scalable technology.
 
 Outside of coding, you’ll find me rock climbing, leading teams, or experimenting with new tech in fields ranging from game development to 3D modeling. I’m always excited to learn, collaborate, and build software that matters.
 
