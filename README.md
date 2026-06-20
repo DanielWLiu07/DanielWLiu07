@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/DanielWLiu07/DanielWLiu07/main/github_banner.png" alt="My GitHub Image" width="100%"/>
 
 <h3 align="center">
-A creative full-stack and ML software engineer building beautiful applications from Canada 🇨🇦  </br> Visit my Portfolio: <a href="https://danielwliu.com">danielwliu.com</a> &nbsp;·&nbsp; <a href="https://www.danielwliu.com/assets/Daniel_W_Liu_Resume.pdf">Résumé</a>
+A creative full-stack and ML software engineer building beautiful applications from Canada 🇨🇦  </br> Visit my Portfolio: <a href="https://danielwliu.com">danielwliu.com</a> &nbsp;·&nbsp; <a href="https://www.danielwliu.com/assets/resume.pdf">Résumé</a>
 
 </h3>
 
@@ -13,6 +13,8 @@ My middle initial is **W**. It doesn't stand for anything; I just like taking Ws
 I'm a Computer Science and Finance double major at the University of Waterloo who loves building beautiful, reliable, user-focused software: full-stack apps, real-time systems, and applied machine learning, often aimed at healthcare and education.
 
 Outside of coding you’ll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
+
+<sub>¹ <b>W</b>: Internet slang for a win; the opposite of an L.</sub>
 
 # Tech Stack:
 
@@ -35,7 +37,7 @@ Outside of coding you’ll catch me rock climbing, spinning pens, leading teams,
 # GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielWLiu07&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielWLiu07&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=transparent" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWLiu07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
 
   <br/>
@@ -55,7 +57,5 @@ Outside of coding you’ll catch me rock climbing, spinning pens, leading teams,
 
 
 ---
-
-<sub>¹ <b>W</b>: Internet slang for a win; the opposite of an L.</sub>
 
 
