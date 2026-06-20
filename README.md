@@ -10,7 +10,7 @@ A creative full-stack and ML software engineer building beautiful applications f
 # About Me
 My middle initial is **W**. It doesn't stand for anything; I just like taking Ws.¹
 
-I'm a Computer Science and Finance double major at the University of Waterloo who loves building beautiful, reliable, user-focused software: full-stack apps, real-time systems, and applied machine learning, often aimed at healthcare and education.
+I'm a Computer Science and Finance double major at the University of Waterloo who loves building beautiful, reliable, user-focused software. My interests range across full-stack apps, real-time systems, applied machine learning, and low-level graphics programming.
 
 Outside of coding you’ll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
 
