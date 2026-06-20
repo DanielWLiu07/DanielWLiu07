@@ -46,6 +46,10 @@ Outside of coding you’ll catch me rock climbing, spinning pens, leading teams,
 
 </div>
 
+## Let's connect
+
+📫 I'm open to **Fall 2026 / Winter 2027 co-op** opportunities and always happy to meet people building cool things. Say hi on [LinkedIn](https://www.linkedin.com/in/danielwliu/), or take a look at [my portfolio](https://danielwliu.com).
+
 ## Socials:
 
 <div>
