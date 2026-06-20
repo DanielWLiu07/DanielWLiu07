@@ -40,9 +40,8 @@ Outside of coding, you’ll find me rock climbing, leading teams, or experimenti
 ## Socials:
 
 <div>
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" />
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub" />
-      <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/danielwliu/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" /></a>
+    <a href="https://github.com/DanielWLiu07"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub" /></a>
 
 </div>
     
