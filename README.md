@@ -8,9 +8,9 @@ A creative full-stack and ML software engineer building beautiful applications f
 </h3>
 
 # About Me
-My middle initial is **W** — it doesn't stand for anything, I just like taking Ws.
+My middle initial is **W**. It doesn't stand for anything; I just like taking Ws.¹
 
-I'm a Computer Science and Finance double major at the University of Waterloo who loves building beautiful, reliable, user-focused software — full-stack apps, real-time systems, and applied machine learning, often aimed at healthcare and education.
+I'm a Computer Science and Finance double major at the University of Waterloo who loves building beautiful, reliable, user-focused software: full-stack apps, real-time systems, and applied machine learning, often aimed at healthcare and education.
 
 Outside of coding you’ll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
 
@@ -55,5 +55,7 @@ Outside of coding you’ll catch me rock climbing, spinning pens, leading teams,
 
 
 ---
+
+<sub>¹ <b>W</b>: Internet slang for a win; the opposite of an L.</sub>
 
 
