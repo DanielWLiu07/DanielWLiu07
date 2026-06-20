@@ -8,9 +8,11 @@ A creative full-stack and ML software engineer building beautiful applications f
 </h3>
 
 # About Me
-I'm a Computer Science and Finance double major at the University of Waterloo with a strong interest in building beautiful and reliable user-focused software systems. I enjoy working on projects that span full-stack development, real-time systems, and applied machine learning, including tools designed to support healthcare and education through practical, scalable technology.
+I'm a Computer Science and Finance double major at the University of Waterloo with a soft spot for building beautiful, reliable, user-focused software — full-stack apps, real-time systems, and applied machine learning, often pointed at healthcare and education.
 
-Outside of coding, you’ll find me rock climbing, leading teams, or experimenting with new tech in fields ranging from game development to 3D modeling. I’m always excited to learn, collaborate, and build software that matters.
+Also: my middle initial is **W** because I only take Ws (yes, it's one letter) — some days that makes me Daniel *Waterloo* Liu, other days Daniel *Wedge* Liu, but every day I'm shipping something.
+
+Outside of coding you’ll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
 
 # Tech Stack:
 
