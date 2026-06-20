@@ -8,7 +8,7 @@ A creative full-stack and ML software engineer building beautiful applications f
 </h3>
 
 # About Me
-I'm a first-year Computer Science and Finance double major at the University of Waterloo with a strong interest in building beautiful and reliable user-focused software systems. I enjoy working on projects that span full-stack development, real-time systems, and applied machine learning, including tools designed to support healthcare and education through practical, scalable technology.
+I'm a Computer Science and Finance double major at the University of Waterloo with a strong interest in building beautiful and reliable user-focused software systems. I enjoy working on projects that span full-stack development, real-time systems, and applied machine learning, including tools designed to support healthcare and education through practical, scalable technology.
 
 Outside of coding, you’ll find me rock climbing, leading teams, or experimenting with new tech in fields ranging from game development to 3D modeling. I’m always excited to learn, collaborate, and build software that matters.
 
