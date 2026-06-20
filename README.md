@@ -32,9 +32,14 @@ Outside of coding, you’ll find me rock climbing, leading teams, or experimenti
 
 # GitHub Stats:
 <div align="center">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DanielWLiu07&theme=transparent&hide_border=false" height="160"/>
-  
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielWLiu07&show_icons=true&hide_border=true&count_private=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWLiu07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com/?user=DanielWLiu07&hide_border=true&theme=transparent" height="165"/>
+
 </div>
 
 ## Socials:
