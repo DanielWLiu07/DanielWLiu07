@@ -23,7 +23,7 @@ Outside of coding you’ll catch me rock climbing, spinning pens, leading teams,
 | **[Portfolio — danielwliu.com](https://danielwliu.com)** | My personal site — custom page transitions, watercolor / manga / 3D visual identities | TypeScript · Next.js · Three.js | [▶ Live](https://danielwliu.com) · [Code](https://github.com/DanielWLiu07/daniel-w-liu-portfolio-website) |
 | **[rainbolt.ai](https://github.com/dtpu/rainbolt.ai)** | AI-powered geolocation assistant — *core contributor (88 commits)* · ⭐16 | TypeScript · AI | [▶ Live](https://rainboltai.vercel.app) |
 | **[voxel-engine](https://github.com/DanielWLiu07/voxel-engine)** | Multithreaded voxel game engine — greedy meshing, real-time shadows, chunk streaming | C++20 · OpenGL 4.1 | [Code](https://github.com/DanielWLiu07/voxel-engine) |
-| **[Lotus](https://github.com/DanielWLiu07/Genai-Genesis)** | Multi-agent AI that turns books / manga into beat-synced cinematic trailers | TypeScript · Agentic AI | [▶ Live](https://genai-genesis-web.vercel.app) |
+| **[Lotus](https://github.com/DanielWLiu07/Lotus)** | Multi-agent AI that turns books / manga into beat-synced cinematic trailers | TypeScript · Agentic AI | [▶ Live](https://genai-genesis-web.vercel.app) |
 | **[wattif](https://github.com/DanielWLiu07/wattif)** | Agent-based digital twin of Toronto for demand-informed renewable-energy siting · ⭐4 | Python · Simulation | [Code](https://github.com/DanielWLiu07/wattif) |
 | **[CFM](https://github.com/DanielWLiu07/CFM)** | Interactive class portfolio · ⭐5 | TypeScript · Three.js | [▶ Live](https://cfm-three.vercel.app) |
 
