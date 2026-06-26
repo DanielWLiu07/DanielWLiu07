@@ -1,9 +1,9 @@
-<h1 align="center"> 
+<h1 align="center">
 
 <img src="https://raw.githubusercontent.com/DanielWLiu07/DanielWLiu07/main/github_banner.png" alt="My GitHub Image" width="100%"/>
 
 <h3 align="center">
-A creative full-stack and ML software engineer building beautiful applications from Canada 🇨🇦  </br> Visit my Portfolio: <a href="https://danielwliu.com">danielwliu.com</a> &nbsp;·&nbsp; <a href="https://www.danielwliu.com/assets/resume.pdf">Résumé</a>
+A creative full-stack and ML software engineer building beautiful applications from Canada 🇨🇦 </br> Visit my Portfolio: <a href="https://danielwliu.com">danielwliu.com</a> &nbsp;·&nbsp; <a href="https://www.danielwliu.com/assets/resume.pdf">Résumé</a>
 
 </h3>
 
@@ -39,23 +39,23 @@ I'm open to **Fall 2026 / Winter 2027 co-op** opportunities and always happy to 
 # GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielWLiu07&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWLiu07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=DanielWLiu07&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=transparent" height="165"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWLiu07&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165"/>
 
-  <br/>
+ <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=DanielWLiu07&hide_border=true&theme=transparent" height="165"/>
+ <img src="https://streak-stats.demolab.com/?user=DanielWLiu07&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
 ## Socials:
 
 <div>
-  <a href="https://www.linkedin.com/in/danielwliu/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" /></a>
-    <a href="https://github.com/DanielWLiu07"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub" /></a>
+ <a href="https://www.linkedin.com/in/danielwliu/"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" /></a>
+ <a href="https://github.com/DanielWLiu07"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub" /></a>
 
 </div>
-    
+
 
 
 ---
