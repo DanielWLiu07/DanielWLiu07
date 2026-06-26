@@ -14,6 +14,8 @@ I'm a Computer Science and Finance double major at the University of Waterloo wh
 
 Outside of coding you’ll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
 
+I'm open to **Fall 2026 / Winter 2027 co-op** opportunities and always happy to meet people building cool things. Say hi on [LinkedIn](https://www.linkedin.com/in/danielwliu/), or take a look at [my portfolio](https://danielwliu.com).
+
 <sub>¹ <b>W</b>: Internet slang for a win; the opposite of an L.</sub>
 
 # Tech Stack:
@@ -45,10 +47,6 @@ Outside of coding you’ll catch me rock climbing, spinning pens, leading teams,
   <img src="https://streak-stats.demolab.com/?user=DanielWLiu07&hide_border=true&theme=transparent" height="165"/>
 
 </div>
-
-## Let's connect
-
-📫 I'm open to **Fall 2026 / Winter 2027 co-op** opportunities and always happy to meet people building cool things. Say hi on [LinkedIn](https://www.linkedin.com/in/danielwliu/), or take a look at [my portfolio](https://danielwliu.com).
 
 ## Socials:
 
