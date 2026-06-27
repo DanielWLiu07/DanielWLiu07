@@ -8,7 +8,7 @@ A creative full-stack and ML software engineer building beautiful applications f
 </h3>
 
 # About Me
-My middle name is **W**, because I always take Ws.¹
+My middle name is **W** because I always take Ws.¹
 
 I'm a Computer Science and Finance double major at the University of Waterloo who loves building beautiful, reliable, user-focused software. My interests range across full-stack apps, real-time systems, applied machine learning, and low-level graphics programming.
 
