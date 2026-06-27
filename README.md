@@ -12,7 +12,7 @@ My middle initial is **W**. It doesn't stand for anything; I just like taking Ws
 
 I'm a Computer Science and Finance double major at the University of Waterloo who loves building beautiful, reliable, user-focused software. My interests range across full-stack apps, real-time systems, applied machine learning, and low-level graphics programming.
 
-Outside of coding you’ll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
+Outside of coding you'll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
 
 I'm open to **Fall 2026 / Winter 2027 co-op** roles and always happy to meet people building cool things, so whether it's an opportunity, a collaboration, or just to talk tech, let's connect on [LinkedIn](https://www.linkedin.com/in/danielwliu/).
 
