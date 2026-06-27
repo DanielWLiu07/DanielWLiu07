@@ -14,7 +14,7 @@ I'm a Computer Science and Finance double major at the University of Waterloo wh
 
 Outside of coding you'll catch me rock climbing, spinning pens, leading teams, or experimenting with new tech from game development to 3D modeling. Always excited to learn, collaborate, and build software that matters.
 
-I'm open to **Fall 2026 / Winter 2027 co-op** roles and always happy to meet people building cool things, so whether it's an opportunity, a collaboration, or just to talk tech, let's connect on [LinkedIn](https://www.linkedin.com/in/danielwliu/).
+I'm open to **Fall 2026 / Winter 2027 co-op** roles and always happy to meet people building cool things, so whether it's an opportunity, a collaboration, or just to talk tech, I'd love to connect on [LinkedIn](https://www.linkedin.com/in/danielwliu/).
 
 <sub>¹ <b>W</b>: Internet slang for a win; the opposite of an L.</sub>
 
