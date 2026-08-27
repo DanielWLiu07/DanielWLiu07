@@ -48,6 +48,20 @@ I'm open to **Fall 2026 / Winter 2027 co-op** roles and always happy to meet peo
 
 </div>
 
+# Bad Apple, on my contribution graph:
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DanielWLiu07/DanielWLiu07/main/badapple.svg" alt="Bad Apple playing on my GitHub contribution graph" width="100%"/>
+
+</div>
+
+<sub>
+My real contribution graph holds, then every cell splits into six to make room, then Bad Apple plays on the 53&times;42 grid it leaves behind.
+No JavaScript &mdash; it is one SVG of ~2,200 CSS keyframe animations, one per cell, using <code>step-end</code> so pixels snap instead of fading.
+File size scales with how often pixels <i>change</i>, not with resolution &times; frames.
+</sub>
+
 ## Socials:
 
 <div>
