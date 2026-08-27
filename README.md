@@ -57,7 +57,7 @@ I'm open to **Fall 2026 / Winter 2027 co-op** roles and always happy to meet peo
 </div>
 
 <sub>
-My real contribution graph holds, then every cell splits into eight to make room, then all 3:35 of Bad Apple plays on the 53&times;56 grid it leaves behind &mdash; the highest the source actually supports.
+My real contribution graph holds in the middle, then splits open, then all 3:35 of Bad Apple plays across the full 73&times;56 grid &mdash; native resolution for the source, past which extra cells just animate in lockstep.
 No JavaScript &mdash; it is one SVG of ~2,200 CSS keyframe animations, one per cell, using <code>step-end</code> so pixels snap instead of fading.
 File size scales with how often pixels <i>change</i>, not with resolution &times; frames.
 </sub>
