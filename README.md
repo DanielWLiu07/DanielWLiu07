@@ -48,12 +48,6 @@ I'm open to **Fall 2026 / Winter 2027 co-op** roles and always happy to meet peo
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DanielWLiu07/DanielWLiu07/main/badapple.svg" alt="Bad Apple playing on my GitHub contribution graph" width="100%"/>
-
-</div>
-
 ## Socials:
 
 <div>
